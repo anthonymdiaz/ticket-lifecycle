@@ -26,7 +26,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/anthonymdiaz/ticket-lifecycle/assets/167942930/89661b73-665d-4eae-af43-d8f3a169e28e)
+
 </p>
 <p>
 Ticket Example:
@@ -34,7 +36,9 @@ Sev-A = Business impacting Ticket (1 hour, 24/7): "Entire mobile/online banking 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/anthonymdiaz/ticket-lifecycle/assets/167942930/6a2b08dc-84c8-4eae-9f20-ed557125ed16)
+
 </p>
 <p>
 Ticket Example: 
@@ -43,9 +47,11 @@ Sev-B = Department Specific Ticket (4 hours, 24/7): "Accounting department needs
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/anthonymdiaz/ticket-lifecycle/assets/167942930/eea0f57b-5956-4ae0-9e39-eaddd6409684)
+
 </p>
 <p>
 Ticket Example:
-Sev-B/C = Low Priority issue Ticket (2 hours, business hours): "CFO’s laptop seems a bit slow".</p>
+Sev-B/C = Low Priority issue Ticket (2 hours, business hours): "Amber's computer seems a bit slow".</p>
 <br />
